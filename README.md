@@ -2,13 +2,11 @@
 
 A list of ideas for programming projects of various size and complexity.
 
-1. [Accessible HTML/CSS](#accessible-html/css)
-2. [Dom Manipulation](#dom-manipulation)
-3. [Javascript](#javascript)
-4. [React Hooks](#react-hooks)
-5. [Full-stack](#full-stack)
+1. [Accessible HTML/CSS/Javascript](#accessible-html/css)
+2. [React Hooks](#react-hooks)
+3. [Full-stack](#full-stack)
 
-## Accessible HTML/CSS
+## Accessible HTML/CSS/Javascript
 
 - Sign up/ Log in form
 - Responsive navbar
@@ -17,16 +15,14 @@ A list of ideas for programming projects of various size and complexity.
 - Modal
 - Animated download button
 - Notification badge
-
-## Dom Manipulation
-
+- Dropdown menu
+- Toast/ Notification
 - Infinite scroll
 - Tic Tac Toe
 - To-do list
-
-## Javascript
-
+- Basic Frontend Framework
 - Basic testing framework
+- Search with dynamic suggestions
 
 ## React Hooks
 

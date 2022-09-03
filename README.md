@@ -4,9 +4,11 @@ A list of ideas for programming projects of various size and complexity.
 
 1. [Accessible HTML/CSS/Javascript](#accessible-html/css)
 2. [React Hooks](#react-hooks)
-3. [Full-stack](#full-stack)
-4. [Data Structures](#data-structures)
-5. [Sorting Algorithms](#sorting-algorithms)
+3. [Backend](#backend)
+4. [Full-stack](#full-stack)
+5. [Data Structures](#data-structures)
+6. [Sorting Algorithms](#sorting-algorithms)
+7. [Graph Algorithms](#graph-algorithms)
 
 ## Accessible HTML/CSS/Javascript
 
@@ -15,6 +17,7 @@ A list of ideas for programming projects of various size and complexity.
 - Skip to content button in navbar
 - Product Filter for e-commerce site
 - Modal
+- Blog post preview card
 - Animated download button
 - Notification badge
 - Dropdown menu
@@ -26,6 +29,7 @@ A list of ideas for programming projects of various size and complexity.
 - Basic testing framework
 - Search with dynamic suggestions
 - Breadcrumb navigation
+- Social media Newsfeed
 
 ## React Hooks
 
@@ -34,22 +38,35 @@ A list of ideas for programming projects of various size and complexity.
 - useWindowSize
 - useDebounce
 - useOnClickOutside
+- useHover
+
+## Backend
+
+-
 
 ## Full-stack
 
 - URL Shortener
+- Group chat app
+- Forum
+- Video streaming
+- Music streaming
 
 ## Data Structures
 
-- Singly Linked List
-- Doubly Linked List
-- Stack
-- Queue
-- Hash Table
-- Priority Queue
-- Binary Search Tree
-- B-Tree
+- Singly Linked Lists
+- Doubly Linked Lists
+- Stacks
+- Queues
+- Hash Tables
+- Priority Queues
+- Heaps
+- Binary Search Trees
+- Tries
+- B-Trees
 - Graphs
+- Bloom filters
+- Skip Lists
 
 ## Sorting Algorithms
 
@@ -60,3 +77,14 @@ A list of ideas for programming projects of various size and complexity.
 - Mergesort
 - Heapsort
 - Radix sort
+
+## Graph Algorithms
+
+- Breadth-first Search
+- Depth-first Search
+- Topological Sort
+- Dijkstra's Algorithms
+- Bellman-Ford Algorithm
+- Floys-Warshall Algorithm
+- Prim's Algorithm
+- Kruskal's Algorithm
